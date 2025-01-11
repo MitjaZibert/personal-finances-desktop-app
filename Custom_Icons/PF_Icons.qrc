@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="UI/Img/">
+    <file>WinSavingsCrypto.png</file>
+    <file>MoveToNextMonth.png</file>
+    <file>AddRow.png</file>
+    <file>AvailableMoney.png</file>
+    <file>Balance.png</file>
+    <file>DeleteRow.png</file>
+    <file>MoneyCheck.png</file>
+    <file>QuitApp.png</file>
+    <file>RollbackData.png</file>
+    <file>SaveData.png</file>
+    <file>TotalMoney.png</file>
+    <file>WinCurrency.png</file>
+    <file>WinExpenseCategories.png</file>
+    <file>WinExpenses.png</file>
+    <file>WinExpensesMonth.png</file>
+    <file>WinIncomeCategories.png</file>
+    <file>WinIncomes.png</file>
+    <file>WinRegularExpense.png</file>
+    <file>WinRegularIncomes.png</file>
+    <file>WinSavings.png</file>
+    <file>WinSavingsAllocations.png</file>
+  </qresource>
+</RCC>
