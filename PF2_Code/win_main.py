@@ -1,7 +1,9 @@
 # ===========================================================================================
 #!/usr/bin/env python
-# PYRCC5 /Users/mitja/Documents/Programming/Personal_Finances/PF/UI/Img/PF_Icons.qrc -o /Users/mitja/Documents/Programming/Personal_Finances/PF/PF_Icons_rc.py
-# pyqt6rc \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\PF2_Code\ui_qt\ui_win_main.ui -o \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\PF2_Code\ui_qt\
+# pyqt6rc \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\PF2_Code\ui_qt\ui_win_main.ui -o \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\PF2_Code\ui_qt\
+# pyqt6rc Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\Custom_Icons\PF_Icons.qrc -o Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\Custom_Icons\PF_Icons_rc.py
+# pyside6-rcc \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\PF2_Code\Custom_Icons\PF_Icons.qrc -o \Users\mitja\Programiranje\Personal_Finances\PF2_Dev\PF2_Source\personal-finances-desktop-app\PF2_Code\Custom_Icons\PF_Icons_rc.py
+
 
 # Installations
 # conda install pymysql

@@ -1,5 +1,5 @@
 <RCC>
-  <qresource prefix="UI/Img/">
+  <qresource prefix="Custom_Icons/">
     <file>WinSavingsCrypto.png</file>
     <file>MoveToNextMonth.png</file>
     <file>AddRow.png</file>
@@ -21,5 +21,6 @@
     <file>WinRegularIncomes.png</file>
     <file>WinSavings.png</file>
     <file>WinSavingsAllocations.png</file>
+    <file>exitApp.png</file>
   </qresource>
 </RCC>

@@ -46,7 +46,7 @@
        </rect>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>2</number>
       </property>
       <widget class="QWidget" name="allocation">
        <attribute name="title">
@@ -1690,29 +1690,6 @@ Registry</string>
     <property name="frameShadow">
      <enum>QFrame::Raised</enum>
     </property>
-    <widget class="QPushButton" name="pushButton_Plots">
-     <property name="geometry">
-      <rect>
-       <x>10</x>
-       <y>10</y>
-       <width>36</width>
-       <height>36</height>
-      </rect>
-     </property>
-     <property name="text">
-      <string/>
-     </property>
-     <property name="icon">
-      <iconset>
-       <normaloff>../../Custom_Icons/Balance.png</normaloff>../../Custom_Icons/Balance.png</iconset>
-     </property>
-     <property name="iconSize">
-      <size>
-       <width>32</width>
-       <height>32</height>
-      </size>
-     </property>
-    </widget>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -1721,7 +1698,7 @@ Registry</string>
      <x>0</x>
      <y>0</y>
      <width>1230</width>
-     <height>22</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>

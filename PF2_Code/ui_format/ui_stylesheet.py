@@ -78,19 +78,20 @@ def setItemTextColor(item, color):
 # Window colors
 #++++
 def setWindowStyle(winMain):
-    
-    winPalette = QPalette()
-    gradient = QLinearGradient(300, 1500, 00, 00) # left / top / right / bottom
-    gradient.setColorAt(0.0, QColor(getRGBColor(globals.windowColorA)))
-    gradient.setColorAt(1.0, QColor(getRGBColor(globals.windowColorB)))
-    brush = QBrush(gradient)
-    winPalette.setBrush(QPalette.ColorRole.Window, brush) # Background color
-    
-    winMain.setPalette(winPalette)
+    None
 
-    winMain.ui.tabWidget_Main.widget(0).setAutoFillBackground(True)
-    winMain.ui.tabWidget_Main.widget(1).setAutoFillBackground(True)
-    winMain.ui.tabWidget_Main.widget(2).setAutoFillBackground(True)
+    # winPalette = QPalette()
+    # gradient = QLinearGradient(300, 1500, 00, 00) # left / top / right / bottom
+    # gradient.setColorAt(0.0, QColor(getRGBColor(globals.windowColorA)))
+    # gradient.setColorAt(1.0, QColor(getRGBColor(globals.windowColorB)))
+    # brush = QBrush(gradient)
+    # winPalette.setBrush(QPalette.ColorRole.Window, brush) # Background color
+    
+    # winMain.setPalette(winPalette)
+
+    # winMain.ui.tabWidget_Main.widget(0).setAutoFillBackground(True)
+    # winMain.ui.tabWidget_Main.widget(1).setAutoFillBackground(True)
+    # winMain.ui.tabWidget_Main.widget(2).setAutoFillBackground(True)
 
     '''
     tabPalette = QPalette()
